@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Fizjoterapia"
+    url: /fizjoterapia/
+  - title: "Trening"
+    url: /trening/
+  - title: "Masaż"
+    url: /masaz/
+  - title: "Cennik"
+    url: /cennik/
+  - title: "Umów wizytę"
+    url: /wizyta/
