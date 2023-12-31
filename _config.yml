@@ -3,8 +3,7 @@ title: gosiaradzyminska.pl
 title_separator: "&#124;"
 subtitle: ""
 name: "Gosia Radzymińska"
-description: "Test automation blog, training and consultancy"
-logo: /images/ico.png
+description: "Gosia Radzymińska - terapeutka Uroginekologiczna"
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
