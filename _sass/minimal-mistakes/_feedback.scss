@@ -1,0 +1,21 @@
+.feedback {
+    border-left: none;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+
+.feedback blockquote {
+    display: block;
+    margin: 0;
+}
+
+.feedback blockquote p {
+    display: inline;
+}
+
+.feedback cite {
+    display: block;
+    text-align: right;
+    color: #8b8b8b;
+    margin-top: 1em;
+}
