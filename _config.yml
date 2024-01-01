@@ -3,7 +3,7 @@ title: gosiaradzyminska.pl
 title_separator: "&#124;"
 subtitle: ""
 name: "Gosia Radzymińska"
-description: "Gosia Radzymińska - terapeutka Uroginekologiczna"
+description: "Gosia Radzymińska - Fizjoterapeutka Uroginekologiczna Kraków"
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
