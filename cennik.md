@@ -6,13 +6,15 @@ permalink: /cennik/
 
 Wszystkie ceny podane są w złotówkach
 
-- Fizjoterapia
+- Fizjoterapia uroginekologiczna
 
   | Lokalizacja                       | Cena |
   |-----------------------------------|------|
   | Wizyta z dojazdem                 | 200  |
   | Centrum Terapii Funkcjonalnej     | 150  |
   | Centrum Rehabilitacji Feel Better | 180  |
+  | Unimed                            | 200  |
+  | USG (tylko w Unimed)             | 220  |
 
 - Trening
 
@@ -28,6 +30,5 @@ Wszystkie ceny podane są w złotówkach
   |-----------------------------------|----------------------------------------|
   | Wizyta z dojazdem                 | 200                                    |
   | Centrum Terapii Funkcjonalnej     | 150                                    |
-  | Centrum Rehabilitacji Feel Better | [Link](http://www.fbrehab.com/cennik/) |
 
 ![](/images/miednica.jpg)
