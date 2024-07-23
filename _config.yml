@@ -32,6 +32,9 @@ author:
     - label: Instagram
       icon: "fab fa-fw fa-instagram-square"
       url: "https://www.instagram.com/gosiamamafizjo/"
+    - label: ZnanyLekarz
+      icon: "fa-znanylekarz"
+      url: "https://www.znanylekarz.pl/malgorzata-radzyminska"
 footer:
   links:
     - label: Email
@@ -43,6 +46,9 @@ footer:
     - label: Instagram
       icon: "fab fa-fw fa-instagram-square"
       url: "https://www.instagram.com/gosiamamafizjo/"
+    - label: ZnanyLekarz
+      icon: "fa-znanylekarz"
+      url: "https://www.znanylekarz.pl/malgorzata-radzyminska"
 
 defaults:
   # _posts

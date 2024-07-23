@@ -591,3 +591,13 @@ a.reversefootnote {
     position: static;
   }
 }
+
+// znanylekarz
+.fa-znanylekarz {
+  background-image: url('/images/znanylekarz.png');
+  background-size: cover;
+  display: inline-block;
+  width: 1em; // Adjust size as needed
+  height: 1em; // Adjust size as needed
+  text-indent: -9999px; // Hide any text inside the element
+}
