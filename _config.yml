@@ -20,7 +20,7 @@ author_profile: true
 author:
   name     : "Gosia Radzymińska"
   avatar   : "/images/miednica.jpg"
-  bio      : "Terapeutka Uroginekologiczna"
+  bio      : "Certyfikowana fizjoterapeutka uroginekologiczna"
   location : "Kraków, Poland"
   links:
     - label: Email
@@ -35,6 +35,9 @@ author:
     - label: ZnanyLekarz
       icon: "fa-znanylekarz"
       url: "https://www.znanylekarz.pl/malgorzata-radzyminska"
+    - label: Booksy
+      icon: "fa-booksy"
+      url: "https://booksy.com/pl-pl/168253_holiestetyka_fizjoterapia_8820_krakow/staffer/570659#ba_s=Undefined"
 footer:
   links:
     - label: Email
@@ -49,6 +52,9 @@ footer:
     - label: ZnanyLekarz
       icon: "fa-znanylekarz"
       url: "https://www.znanylekarz.pl/malgorzata-radzyminska"
+    - label: Booksy
+      icon: "fa-booksy"
+      url: "https://booksy.com/pl-pl/168253_holiestetyka_fizjoterapia_8820_krakow/staffer/570659#ba_s=Undefined"
 
 defaults:
   # _posts

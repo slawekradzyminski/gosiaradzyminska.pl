@@ -597,7 +597,27 @@ a.reversefootnote {
   background-image: url('/images/znanylekarz.png');
   background-size: cover;
   display: inline-block;
-  width: 1em; // Adjust size as needed
-  height: 1em; // Adjust size as needed
-  text-indent: -9999px; // Hide any text inside the element
+  width: 1em; 
+  height: 1em;      
+  text-indent: -9999px; 
+}
+
+// Booksy icon
+.fa-booksy {
+  background-image: url('/images/booksy.jpeg');
+  background-size: cover;
+  display: inline-block;
+  width: 1em; 
+  height: 1em; 
+  text-indent: -9999px; 
+}
+
+// Feelbetter icon
+.fa-feelbetter {
+  background-image: url('/images/feelbetter.png');
+  background-size: cover;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  text-indent: -9999px;
 }
