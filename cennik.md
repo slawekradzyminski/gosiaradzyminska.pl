@@ -6,7 +6,7 @@ permalink: /cennik/
 
 Wszystkie ceny podane są w złotówkach
 
-- Fizjoterapia uroginekologiczna
+- Fizjoterapia uroginekologiczna/urologiczna
 
   | Lokalizacja                              | Cena | Umów się |    
   | ---------------------------------------- | ---- | -------- |
